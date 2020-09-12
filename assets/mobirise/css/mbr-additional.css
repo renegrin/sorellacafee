@@ -1525,6 +1525,46 @@ section.lazy-placeholder:after {
     padding-left: 2rem;
   }
 }
+.cid-s9EweTDBfT .divTable {
+  display: table;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.cid-s9EweTDBfT .divTableRow {
+  display: table-row;
+}
+.cid-s9EweTDBfT .divTableHeading {
+  background-color: #EEE;
+  display: table-header-group;
+  font-weight: bold;
+}
+.cid-s9EweTDBfT .divTableCell,
+.cid-s9EweTDBfT .divTableHead {
+  border: 0px solid #999999;
+  display: table-cell;
+  padding: 3px 10px;
+}
+.cid-s9EweTDBfT .divTableFoot {
+  background-color: #EEE;
+  display: table-footer-group;
+  font-weight: bold;
+}
+.cid-s9EweTDBfT .divTableBody {
+  display: table-row-group;
+}
+.cid-s9EweTDBfT .div.topRow {
+  width: 100%;
+  clear: both;
+  align: center;
+  text-align: center;
+  display: block;
+}
+.cid-s9EweTDBfT .menuheader {
+  padding: 20;
+  topmargin: 0;
+  text-align: center;
+}
 .cid-s9DZI6V0LB {
   padding-top: 30px;
   padding-bottom: 60px;
